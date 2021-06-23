@@ -1,0 +1,76 @@
+div#content{
+	background-color: darkblue;
+}
+div#content div{
+	display: inline-block;
+}
+div#content div.leftbox{
+	width: 48%;
+	color: white;
+	vertical-align: top;
+	background-color: black;
+}
+div#content div.leftbox h2{
+	margin: 10px;
+	padding: 170px;
+}
+div#content div.rightbox{
+	width: 48%;
+	height: 20%;
+	color: white;
+}
+
+nav.menu ul li.pts{
+	list-style-type: none;
+}
+nav.menu ul li.pts{
+	display: inline-block;
+}
+nav.menu ul li.pts a{
+	color: whitesmoke;
+	text-decoration: none;
+	background-color: darkblue;
+	padding: 10px;
+	font-size: 30px;
+	font-family: Brush Script MT;
+}
+nav.menu ul li.pts:hover a{
+	color: white;
+	background-color: black;
+	transition: 1s all;
+}
+
+p.listdesactivites{
+	font-family: Bahnschrift Light;
+	color: black;
+}
+p.textservice{
+	color: black;
+	opacity: 2;
+}
+a{
+	color: darkblue;
+}
+body{
+	background-color: ghostwhite;
+}
+h1.grandtitre{
+	opacity: 0.5;
+}
+h1{
+	color: darkblue;
+}
+header{
+	background-color: skyblue;
+	color: white;
+}
+footer p{
+	background-color: #777;
+	color: white;
+	font-size: 30px;
+
+}
+p.produitdispo{
+	font-family: Bahnschrift Light SemiCondensed;
+	color: darkblue;
+}
